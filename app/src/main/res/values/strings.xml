@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Время чаевых </string>
+    <string name="round_up_tip">Округлить чаевые? </string>
+    <string name="cost_of_service">Стоимость чаевых? </string>
+    <string name="how_was_the_service">Каким был сервис? </string>
+    <string name="amazing_20">Великолепно (20%) </string>
+    <string name="good_18">Хорошо (18%) </string>
+    <string name="okay_15">Пойдет (15%) </string>
+    <string name="calculate">Рассчитать </string>
+    <string name="tip_amount">Сумма чаевых:%s </string>
+</resources>
